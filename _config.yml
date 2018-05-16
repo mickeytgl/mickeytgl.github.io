@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Miguel Torres
+description: Miguel Torres
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Miguel Torres
-user_description: Back End Developer focused on Ruby on Rails. Experience working with API’s, PostgreSQL, webpacker, JavaScript, and Vue.js
-user_title: Ruby on Rails Developer
+user_description: Back End Developer focused on Ruby on Rails. Experience working with API’s, PostgreSQL, webpacker, Test Driven Development, JavaScript, and Vue.js. Part of Gorails team since May 2017
+user_title: Developer, dog owner, passionate about code, languages, travelling.
 email: migueltg93@gmail.com
 twitter_username: mickeytgl
 github_username:  mickeytgl
